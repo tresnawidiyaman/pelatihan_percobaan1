@@ -1,0 +1,17 @@
+header#headmenu .navbar {
+	background: #0080FF;
+	border: none;
+	border-radius: 0;
+}
+
+.nomerlaman {
+	vertical-align: middle;
+	text-align: center;
+}
+
+footer#pesankaki {
+	padding-top: 32px;
+	padding-bottom: 32px;
+	background-image: ('img/img.png');
+	background-repeat: repeat-y;
+}
